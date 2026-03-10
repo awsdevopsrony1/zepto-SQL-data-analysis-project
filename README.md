@@ -22,9 +22,7 @@ Tools Used
 
 The analysis in this project was performed using:
 
-SQL
-
-Microsoft SQL Server
+MySQL
 
 Dataset Source: Kaggle
 
