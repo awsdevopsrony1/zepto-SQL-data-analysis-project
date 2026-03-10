@@ -26,6 +26,8 @@ SQL
 
 Microsoft SQL Server
 
+Dataset Source: Kaggle
+
 Dataset Overview
 
 The dataset contains product inventory data similar to what an e-commerce platform would maintain.
